@@ -1,5 +1,5 @@
 run "something" {
   module {
-        source = "./modules/iam-policy"
+        source = "../modules/iam-policy"
     }
 }
